@@ -111,7 +111,18 @@ header a:hover{
     text-align: center;
 }
 
+#nuestros-programas h2{
+    margin-top: 0;
+    font-size: 3em;
+}
+
 #nuestros-programas .carta{
+    background-position: center center;
+    background-size: cover;
+    padding: 50px;
+    margin: 20px;
+    border-radius: 15px;
+
 
 }
 
@@ -141,4 +152,10 @@ header a:hover{
         rgba(0,0,0,0.5)
     )
     ,url("media/python.jpg");
+}
+
+#caracteristicas{
+    background-color: rgb(30,30,30);
+    color: white;
+    text-align: center;
 }
